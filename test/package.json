@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^14.2.0"
+  },
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.13.12",
+    "istanbul-lib-coverage": "^3.2.2",
+    "nyc": "^17.1.0"
+  }
+}
